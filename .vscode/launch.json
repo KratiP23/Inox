@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADMIN",
+            "request": "launch",
+            "mainClass": "ADMIN",
+            "projectName": "src_8c85431c"
+        },
+        {
+            "type": "java",
+            "name": "Launch BILL",
+            "request": "launch",
+            "mainClass": "BILL",
+            "projectName": "src_8c85431c"
+        },
+        {
+            "type": "java",
+            "name": "Launch NEWMOVIE",
+            "request": "launch",
+            "mainClass": "NEWMOVIE",
+            "projectName": "src_8c85431c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SCREEN1",
+            "request": "launch",
+            "mainClass": "SCREEN1",
+            "projectName": "src_8c85431c"
+        },
+        {
+            "type": "java",
+            "name": "Launch login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "src_8c85431c"
+        }
+    ]
+}
